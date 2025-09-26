@@ -1,0 +1,79 @@
+[
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-04",
+    "meal_break": 18,
+    "hot_seat": 10,
+    "shift_change": 2,
+    "no_operator": 0,
+    "refueling": 1,
+    "unscheduled_maintenance": 14
+  },
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-05",
+    "meal_break": 20,
+    "hot_seat": 13,
+    "shift_change": 4,
+    "no_operator": 0,
+    "refueling": 1,
+    "unscheduled_maintenance": 13
+  },
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-06",
+    "meal_break": 19,
+    "hot_seat": 9,
+    "shift_change": 3,
+    "no_operator": 1,
+    "refueling": 0,
+    "unscheduled_maintenance": 11
+  },
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-07",
+    "meal_break": 21,
+    "hot_seat": 12,
+    "shift_change": 2,
+    "no_operator": 0,
+    "refueling": 1,
+    "unscheduled_maintenance": 10
+  },
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-08",
+    "meal_break": 17,
+    "hot_seat": 11,
+    "shift_change": 5,
+    "no_operator": 0,
+    "refueling": 2,
+    "unscheduled_maintenance": 16
+  },
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-09",
+    "meal_break": 8,
+    "hot_seat": 15,
+    "shift_change": 2,
+    "no_operator": 0,
+    "refueling": 0,
+    "unscheduled_maintenance": 12
+  },
+  {
+    "shift_id": "BHP002DH47895",
+    "total_employees": 50,
+    "date": "2025-09-10",
+    "meal_break": 22,
+    "hot_seat": 14,
+    "shift_change": 3,
+    "no_operator": 0,
+    "refueling": 1,
+    "unscheduled_maintenance": 14
+  }
+]
