@@ -2,7 +2,7 @@
 This repository contains the code and data for an interactive dashboard that visualizes and analyzes employee delay data. The project uses LangChain for analysis and Streamlit for the interface.
 
 Project Overview :-
-	This dashboard is designed to help managers and HR professionals understand trends and patterns in employee punctuality and the reason also where the issue lies. By using a combination of a dynamic dashboard and a powerful AI-powered analysis tool, it transforms raw JSON data into actionable insights. The core functionality includes:
+	This dashboard is designed to help managers and HR professionals understand trends and patterns in employee punctuality and the reason also where the issue lies. The core functionality includes:
 	
 		1. Insights: Integration with LangChain to analyze the data and provides detailed observations, areas of concern, and reasons for its findings.
 		
